@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScoresSteal</string>
+    <string name="btn_increase_score">Augmenter</string>
+    <string name="btn_decrease_score">Diminuer</string>
+    <string name="btn_reset_score">Réinitialiser</string>
+    <string name="winning_message">Cest fini !</string>
+</resources>

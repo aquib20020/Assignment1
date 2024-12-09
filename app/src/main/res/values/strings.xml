@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScoreSteal</string>
+    <string name="btn_increase_score">Increase Score</string>
+    <string name="btn_decrease_score">Decrease Score</string>
+    <string name="btn_reset_score">Reset Score</string>
+    <string name="winning_message">That is a Wrap!</string>
+</resources>
